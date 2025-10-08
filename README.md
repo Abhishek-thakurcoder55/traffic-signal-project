@@ -1,2 +1,2 @@
 # traffic-signal-project
-this is project which shows the application of signal
+this is an project which shows the application of signal
